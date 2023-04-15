@@ -19,7 +19,6 @@ public class Main {
         myPlaylist.addSongFromAlbum(album2, 3); //take care
 
         System.out.println(myPlaylist.play()); //unholy
-
         System.out.println(myPlaylist.playPrevious()); // nothing
 
         System.out.println(myPlaylist.playNext()); //gloria
@@ -29,7 +28,6 @@ public class Main {
         System.out.println(myPlaylist.playPrevious()); //gloria
 
         System.out.println(myPlaylist.addSongFromAlbum(album1,2)); //
-
         System.out.println(myPlaylist.play()); //gloria
 
         System.out.println(myPlaylist.playNext()); // her loss
